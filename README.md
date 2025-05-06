@@ -2,7 +2,7 @@
 
 # $TAMIA White Paper
 
-*A memecoin with a mission, powered by Solana. 🐿️✨*
+*A memecoin with a mission, powered by $TAMIA. 🐿️✨*
 
 Welcome to the official repository of the $TAMIA White Paper — the foundational document of a community-first memecoin project built on the high-speed, low-cost Solana blockchain.
 
