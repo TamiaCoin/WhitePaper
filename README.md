@@ -67,7 +67,9 @@ All valid proposals will be reviewed and potentially integrated in future versio
 - 🪙 [$TAMIA Token Repository](https://github.com/TamiaCoin/Tamia_token)
 - 🎮 [Play-to-Earn Game Repository](https://github.com/TamiaCoin/Tamia_Play2Earn)
 - 🌐 [Official Website](https://tamia.club)
-- 🐦  Join the community: [Follow on X](https://twitter.com/TamiaCoin) and [Telegram](https://t.me/).
+- 💬 [Community Chat (Telegram)](https://t.me/TamiaCoinCommunity)
+- 📢 [Announcements Channel (Telegram)](https://t.me/TamiaCoin)
+- 🐦 [Follow the community on X](https://twitter.com/TamiaCoin)
 
 <br>
 
