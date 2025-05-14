@@ -4,6 +4,13 @@
 
 *A memecoin with a mission, powered by $TAMIA. 🐿️✨*
 
+![Whitepaper](https://img.shields.io/badge/Whitepaper-v1.0-blue)
+![Status](https://img.shields.io/badge/Status-Living%20Document-green)
+![License](https://img.shields.io/github/license/TamiaCoin/WhitePaper)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+![Docs](https://img.shields.io/badge/Docs-Markdown-lightgrey?logo=markdown)
+
+
 Welcome to the official repository of the $TAMIA White Paper — the foundational document of a community-first memecoin project built on the high-speed, low-cost Solana blockchain.
 
 <br>
