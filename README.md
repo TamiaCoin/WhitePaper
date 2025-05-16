@@ -61,6 +61,8 @@ It covers:
 
 ## ✍️ Contributions & Feedback
 
+<div align="center"><img src="https://github.com/user-attachments/assets/8553e53d-cbb3-43ca-a9ce-b79929d0a110" alt="tamiacoin community" width=400/></div>
+
 The white paper is maintained by the **core contributors** to ensure consistent messaging and alignment with the project's goals.
 However, **community suggestions are always welcome**!
 
