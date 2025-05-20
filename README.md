@@ -1,4 +1,5 @@
-<div align="center"><img src="https://github.com/user-attachments/assets/605d52e0-dfb7-4096-ae0f-54990648bcf2" alt="tamiacoin" width=450/></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/605d52e0-dfb7-4096-ae0f-54990648bcf2" alt="tamiacoin" width=400/></div><br>
+<div align="center"><img src="https://github.com/user-attachments/assets/2b3062f3-7ec9-4643-a774-567b886c4a57" alt="tamiacoin" width=450/><br><br>
 
 # $TAMIA White Paper
 
@@ -22,9 +23,9 @@ This repository hosts the official and historical versions of the $TAMIA white p
 
 
 **Repository Includes:**
-- ✅ Current white paper — ![version](https://img.shields.io/badge/v1.0-blue)
-- 📈 Upcoming updates — `v1.1`, `v2.0`, etc.
-- 📚 Reference materials — Background docs, changelogs (optional)
+✅ Current white paper — ![version](https://img.shields.io/badge/v1.0-blue)
+📈 Upcoming updates — `v1.1`, `v2.0`, etc.
+📚 Reference materials — Background docs, changelogs (optional)
 
 
 
@@ -33,16 +34,16 @@ This repository hosts the official and historical versions of the $TAMIA white p
 ## 🎯 Misson & Scope
 
 The **$TAMIA White Paper** serves as a living document and reference guide for:
-- 🧠 **Community contributors**
-- 🤝 **Potential partners**
-- 💻 **Developers & builders**
-- 👀 **Anyone curious about the project**
+🧠 **Community contributors**
+🤝 **Potential partners**
+💻 **Developers & builders**
+👀 **Anyone curious about the project**
 
 It covers:
-- 🧭 The vision behind the $TAMIA ecosystem
-- 📊 Tokenomics and allocation strategy
-- 🛣️ Roadmap and long-term objectives
-- 🎮 The P2E reward system and gamified incentives
+🧭 The vision behind the $TAMIA ecosystem
+📊 Tokenomics and allocation strategy
+🛣️ Roadmap and long-term objectives
+🎮 The P2E reward system and gamified incentives
 
 
 
@@ -73,12 +74,12 @@ All valid proposals will be reviewed and potentially integrated in future versio
 
 ## 🔗 Ecosystem Links
 
-- 🪙 [$TAMIA Token Repository](https://github.com/TamiaCoin/Tamia_token)
-- 🎮 [Play-to-Earn Game Repository](https://github.com/TamiaCoin/Tamia_Play2Earn)
-- 🌐 [Official Website](https://tamia.club)
-- 💬 [Community Chat (Telegram)](https://t.me/TamiaCoinCommunity)
-- 📢 [Announcements Channel (Telegram)](https://t.me/TamiaCoin)
-- 🐦 [Follow the community on X](https://twitter.com/TamiaCoin)
+🪙 [$TAMIA Token Repository](https://github.com/TamiaCoin/Tamia_token)
+🎮 [Play-to-Earn Game Repository](https://github.com/TamiaCoin/Tamia_Play2Earn)
+🌐 [Official Website](https://tamia.club)
+💬 [Community Chat (Telegram)](https://t.me/TamiaCoinCommunity)
+📢 [Announcements Channel (Telegram)](https://t.me/TamiaCoin)
+🐦 [Follow the community on X](https://twitter.com/TamiaCoin)
 
 <br>
 
