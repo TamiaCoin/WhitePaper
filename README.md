@@ -75,7 +75,8 @@ All valid proposals will be reviewed and potentially integrated in future versio
 ## 🔗 Ecosystem Links
 
 🪙 [$TAMIA Token Repository](https://github.com/TamiaCoin/Tamia_token)
-🎮 [Play-to-Earn Game Repository](https://github.com/TamiaCoin/Tamia_Play2Earn)
+🎮📜 [$TAMIA Play-to-Earn Smart Contract](https://github.com/TamiaCoin/Tamia_Play2Earn)
+🐿️🎮 [Flappy Chipmunk Game](https://github.com/TamiaCoin/Flappy_Chipmunk)
 🌐 [Official Website](https://tamia.club)
 💬 [Community Chat (Telegram)](https://t.me/TamiaCoinCommunity)
 📢 [Announcements Channel (Telegram)](https://t.me/TamiaCoin)
